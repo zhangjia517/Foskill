@@ -2,6 +2,7 @@
 
 public class RoleBase : MonoBehaviour
 {
-    public float MoveSpeed;
+    public float WalkSpeed;
+    public float RunSpeed;
     public float RotateSpeed;
 }

@@ -16,8 +16,8 @@ public class DKWalkState : StateMachineBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
 
-        animator.gameObject.transform.Translate(animator.transform.forward * vertical * 0.02f * _dkConcrete.MoveSpeed, Space.World);
-        animator.gameObject.transform.Rotate(animator.transform.up * _dkConcrete.RotateSpeed * 1.5f * horizontal);
+        animator.gameObject.transform.Translate(animator.transform.forward * vertical * 0.02f * _dkConcrete.WalkSpeed, Space.World);
+        animator.gameObject.transform.Rotate(animator.transform.up * _dkConcrete.RotateSpeed * 2f * horizontal);
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
