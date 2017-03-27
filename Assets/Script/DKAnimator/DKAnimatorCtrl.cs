@@ -17,27 +17,22 @@ public class DKAnimatorCtrl : MonoBehaviour
 
     public void Update()
     {
-        if (PlayerAnimator)
-        {
-            //            AnimatorStateInfo stateInfo = PlayerAnimator.GetCurrentAnimatorStateInfo(0);
+        if (!PlayerAnimator) return;
+        //AnimatorStateInfo stateInfo = PlayerAnimator.GetCurrentAnimatorStateInfo(0);
 
-            if (Input.GetButtonDown("Attack1")) PlayerAnimator.SetBool("Attack1", true);
-            if (Input.GetButtonUp("Attack1")) PlayerAnimator.SetBool("Attack1", false);
+        float h = Input.GetAxis("Horizontal");
+        float v = Input.GetAxis("Vertical");
+        PlayerAnimator.SetFloat("Speed", h * h + v * v);
 
+        ChangeDir();
 
-            float h = Input.GetAxis("Horizontal");
-            float v = Input.GetAxis("Vertical");
-
-            PlayerAnimator.SetFloat("Speed", h * h + v * v);
-
-            ChangeDir();
-        }
+        if (Input.GetButtonDown("Attack1")) PlayerAnimator.SetBool("Attack1", true);
+        if (Input.GetButtonUp("Attack1")) PlayerAnimator.SetBool("Attack1", false);
     }
 
     private void ChangeDir()
     {
         float horizontal = Input.GetAxis("ChangeDir");
-
         _focus.transform.Rotate(_focus.transform.up * 1 * 2f * horizontal);
     }
 }
