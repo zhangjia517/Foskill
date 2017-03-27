@@ -16,14 +16,11 @@ public class DKAnimatorCtrl : MonoBehaviour
     {
         if (PlayerAnimator)
         {
-//            AnimatorStateInfo stateInfo = PlayerAnimator.GetCurrentAnimatorStateInfo(0);
+            //            AnimatorStateInfo stateInfo = PlayerAnimator.GetCurrentAnimatorStateInfo(0);
 
             if (Input.GetButtonDown("Attack1")) PlayerAnimator.SetBool("Attack1", true);
             if (Input.GetButtonUp("Attack1")) PlayerAnimator.SetBool("Attack1", false);
-            if (Input.GetKeyDown(KeyCode.X))
-            {
-                PlayerAnimator.SetBool("Dodge", true);
-            }
+
 
             float h = Input.GetAxis("Horizontal");
             float v = Input.GetAxis("Vertical");
