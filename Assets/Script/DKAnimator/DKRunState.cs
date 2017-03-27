@@ -5,11 +5,15 @@ public class DKRunState : StateMachineBehaviour
 {
 
     private PlayerConcrete _dkConcrete;
+    private GameObject _focus;
 
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         _dkConcrete = animator.transform.GetComponent<PlayerConcrete>();
+        _focus = animator.transform.FindChild("Focus").gameObject;
+        _focus.transform.localRotation = Quaternion.Euler(Vector3.Lerp(_focus.transform.localRotation.eulerAngles, new Vector3(0, 0, 0), 4));
+
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks

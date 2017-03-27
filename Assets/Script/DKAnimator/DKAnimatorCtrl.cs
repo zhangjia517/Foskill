@@ -3,6 +3,7 @@
 public class DKAnimatorCtrl : MonoBehaviour
 {
     protected Animator PlayerAnimator;
+    private GameObject _focus;
 
     public void Start()
     {
@@ -10,6 +11,8 @@ public class DKAnimatorCtrl : MonoBehaviour
 
         if (PlayerAnimator.layerCount >= 2)
             PlayerAnimator.SetLayerWeight(1, 1);
+
+        _focus = PlayerAnimator.transform.FindChild("Focus").gameObject;
     }
 
     public void Update()
@@ -26,6 +29,15 @@ public class DKAnimatorCtrl : MonoBehaviour
             float v = Input.GetAxis("Vertical");
 
             PlayerAnimator.SetFloat("Speed", h * h + v * v);
+
+            ChangeDir();
         }
+    }
+
+    private void ChangeDir()
+    {
+        float horizontal = Input.GetAxis("ChangeDir");
+
+        _focus.transform.Rotate(_focus.transform.up * 1 * 2f * horizontal);
     }
 }

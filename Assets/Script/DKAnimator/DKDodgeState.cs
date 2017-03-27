@@ -15,7 +15,7 @@ public class DKDodgeState : StateMachineBehaviour
         {
             vertical = 1;
         }
-        iTween.MoveBy(_animator.gameObject, iTween.Hash("amount", ((new Vector3(horizontal, 0, vertical)).normalized * 3), "time", 2f));
+        iTween.MoveBy(_animator.gameObject, iTween.Hash("amount", ((new Vector3(horizontal, 0, vertical)).normalized * 5), "time", 2f));
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks

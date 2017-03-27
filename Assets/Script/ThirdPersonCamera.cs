@@ -13,7 +13,7 @@ public class ThirdPersonCamera : MonoBehaviour
 	Transform follow;
 	
 	void Start(){
-		follow = GameObject.FindWithTag ("Player").transform;	
+		follow = GameObject.FindWithTag ("PlayerFocus").transform;	
 	}
 	
 	void LateUpdate ()

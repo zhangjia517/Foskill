@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: 2cbece7f68145db40a91ef523e6f0e6d
+timeCreated: 1438499830
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip04 Head
+    100002: Bip04 L Calf
+    100004: Bip04 L Clavicle
+    100006: Bip04 L Finger0
+    100008: Bip04 L Finger01
+    100010: Bip04 L Finger02
+    100012: Bip04 L Finger1
+    100014: Bip04 L Finger11
+    100016: Bip04 L Finger12
+    100018: Bip04 L Foot
+    100020: Bip04 L Forearm
+    100022: Bip04 L Hand
+    100024: Bip04 L Thigh
+    100026: Bip04 L UpperArm
+    100028: Bip04 Neck
+    100030: Bip04 Pelvis
+    100032: Bip04 R Calf
+    100034: Bip04 R Clavicle
+    100036: Bip04 R Finger0
+    100038: Bip04 R Finger01
+    100040: Bip04 R Finger02
+    100042: Bip04 R Finger1
+    100044: Bip04 R Finger11
+    100046: Bip04 R Finger12
+    100048: Bip04 R Foot
+    100050: Bip04 R Forearm
+    100052: Bip04 R Hand
+    100054: Bip04 R Thigh
+    100056: Bip04 R UpperArm
+    100058: Bip04 Spine
+    100060: Bip04 Spine1
+    100062: Bip_NPC_Warior
+    100064: NPS_warior_body
+    100066: NPS_warior_sheld
+    100068: NPS_warior_sword_01
+    100070: //RootNode
+    400000: Bip04 Head
+    400002: Bip04 L Calf
+    400004: Bip04 L Clavicle
+    400006: Bip04 L Finger0
+    400008: Bip04 L Finger01
+    400010: Bip04 L Finger02
+    400012: Bip04 L Finger1
+    400014: Bip04 L Finger11
+    400016: Bip04 L Finger12
+    400018: Bip04 L Foot
+    400020: Bip04 L Forearm
+    400022: Bip04 L Hand
+    400024: Bip04 L Thigh
+    400026: Bip04 L UpperArm
+    400028: Bip04 Neck
+    400030: Bip04 Pelvis
+    400032: Bip04 R Calf
+    400034: Bip04 R Clavicle
+    400036: Bip04 R Finger0
+    400038: Bip04 R Finger01
+    400040: Bip04 R Finger02
+    400042: Bip04 R Finger1
+    400044: Bip04 R Finger11
+    400046: Bip04 R Finger12
+    400048: Bip04 R Foot
+    400050: Bip04 R Forearm
+    400052: Bip04 R Hand
+    400054: Bip04 R Thigh
+    400056: Bip04 R UpperArm
+    400058: Bip04 Spine
+    400060: Bip04 Spine1
+    400062: Bip_NPC_Warior
+    400064: NPS_warior_body
+    400066: NPS_warior_sheld
+    400068: NPS_warior_sword_01
+    400070: //RootNode
+    2300000: NPS_warior_sheld
+    2300002: NPS_warior_sword_01
+    3300000: NPS_warior_sheld
+    3300002: NPS_warior_sword_01
+    4300000: NPS_warior_body
+    4300002: NPS_warior_sheld
+    4300004: NPS_warior_sword_01
+    7400000: NPS_Warr_War_cry
+    7400002: NPS_Warr_combat_mod
+    7400004: NPS_Warr_dead-on-back
+    7400006: NPS_Warr_dodge
+    7400008: NPS_Warr_dying_belt
+    7400010: NPS_Warr_falling_coming_up_basic
+    7400012: NPS_Warr_flinch_back
+    7400014: NPS_Warr_flinch_front
+    7400016: NPS_Warr_flinch_left
+    7400018: NPS_Warr_flinch_right
+    7400020: NPS_Warr_Up_Down_blow
+    7400022: NPS_Warr_Heroic_blow
+    7400024: NPS_Warr_right_blow
+    7400026: NPS_Warr_shield_blow
+    7400028: NPS_Warr_shield_block
+    7400030: NPS_Warr_Jump
+    7400032: NPS_Warr_run
+    7400034: NPS_Warr_staying_01
+    7400036: NPS_Warr_walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: NPS_warior_body
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Warrior' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Bip04 Spine' has translation animation that
+      will be discarded.\n\t'Bip04 Spine1' has translation animation that will be
+      discarded.\n\t'Bip04 Neck' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: NPS_Warr_War_cry
+      takeName: 
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_combat_mod
+      takeName: 
+      firstFrame: 46
+      lastFrame: 106
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip_NPC_Warior
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf/Bip04 L Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf/Bip04 R Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01/Bip04
+          L Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11/Bip04
+          L Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/NPS_warior_sheld
+        weight: 0
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck/Bip04
+          Head
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01/Bip04
+          R Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11/Bip04
+          R Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/NPS_warior_sword_01
+        weight: 0
+      - path: NPS_warior_body
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_dead-on-back
+      takeName: 
+      firstFrame: 107
+      lastFrame: 153
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_dodge
+      takeName: 
+      firstFrame: 154
+      lastFrame: 174
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip_NPC_Warior
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf/Bip04 L Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf/Bip04 R Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01/Bip04
+          L Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11/Bip04
+          L Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/NPS_warior_sheld
+        weight: 0
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck/Bip04
+          Head
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01/Bip04
+          R Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11/Bip04
+          R Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/NPS_warior_sword_01
+        weight: 0
+      - path: NPS_warior_body
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_dying_belt
+      takeName: 
+      firstFrame: 175
+      lastFrame: 249
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_falling_coming_up_basic
+      takeName: 
+      firstFrame: 250
+      lastFrame: 360
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_flinch_back
+      takeName: 
+      firstFrame: 361
+      lastFrame: 401
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_flinch_front
+      takeName: 
+      firstFrame: 402
+      lastFrame: 452
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_flinch_left
+      takeName: 
+      firstFrame: 453
+      lastFrame: 493
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_flinch_right
+      takeName: 
+      firstFrame: 494
+      lastFrame: 534
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_Up_Down_blow
+      takeName: 
+      firstFrame: 535
+      lastFrame: 575
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip_NPC_Warior
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf/Bip04 L Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf/Bip04 R Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01/Bip04
+          L Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11/Bip04
+          L Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/NPS_warior_sheld
+        weight: 0
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck/Bip04
+          Head
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01/Bip04
+          R Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11/Bip04
+          R Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/NPS_warior_sword_01
+        weight: 0
+      - path: NPS_warior_body
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_Heroic_blow
+      takeName: 
+      firstFrame: 576
+      lastFrame: 626
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_right_blow
+      takeName: 
+      firstFrame: 627
+      lastFrame: 677
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_shield_blow
+      takeName: 
+      firstFrame: 678
+      lastFrame: 713
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_shield_block
+      takeName: 
+      firstFrame: 714
+      lastFrame: 754
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_Jump
+      takeName: 
+      firstFrame: 755
+      lastFrame: 779
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_run
+      takeName: 
+      firstFrame: 784
+      lastFrame: 806
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip_NPC_Warior
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 L Thigh/Bip04 L Calf/Bip04 L Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 R Thigh/Bip04 R Calf/Bip04 R Foot
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger0/Bip04 L Finger01/Bip04
+          L Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/Bip04 L Hand/Bip04 L Finger1/Bip04 L Finger11/Bip04
+          L Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 L Clavicle/Bip04
+          L UpperArm/Bip04 L Forearm/NPS_warior_sheld
+        weight: 0
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 Neck/Bip04
+          Head
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger0/Bip04 R Finger01/Bip04
+          R Finger02
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/Bip04 R Finger1/Bip04 R Finger11/Bip04
+          R Finger12
+        weight: 1
+      - path: Bip_NPC_Warior/Bip04 Pelvis/Bip04 Spine/Bip04 Spine1/Bip04 R Clavicle/Bip04
+          R UpperArm/Bip04 R Forearm/Bip04 R Hand/NPS_warior_sword_01
+        weight: 0
+      - path: NPS_warior_body
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_staying_01
+      takeName: 
+      firstFrame: 811
+      lastFrame: 911
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPS_Warr_walk
+      takeName: 
+      firstFrame: 916
+      lastFrame: 951
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bip04 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger02
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger11
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 L Finger12
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger02
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger11
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip04 R Finger12
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Warrior(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: NPS_warior_body
+      position: {x: -0.00024580956, y: 1.3968835, z: 0}
+      rotation: {x: -0.000000030908623, y: 0.7071068, z: 0.7071068, w: 0.000000030908623}
+      scale: {x: 0.019124998, y: 0.019124998, z: 0.019124998}
+      transformModified: 1
+    - name: Bip_NPC_Warior
+      position: {x: -0.027973674, y: 1.0509616, z: -0.08373584}
+      rotation: {x: 0.5, y: -0.50000006, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: Bip04 Pelvis
+      position: {x: 0.012525592, y: -0.027973669, z: 0.0000000031605278}
+      rotation: {x: -0.49999937, y: 0.5000006, z: 0.49999928, w: 0.50000066}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 Spine
+      position: {x: -0.08985984, y: -0.011989802, z: -0.0020551179}
+      rotation: {x: -0.0000020563602, y: 0.000000029802322, z: -0.000000029802322,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Bip04 Spine1
+      position: {x: -0.13507605, y: -0.00027310848, z: 0.000000022351742}
+      rotation: {x: -0.000000059604645, y: -0.000000014901161, z: 0.017054334, w: 0.99985456}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 Neck
+      position: {x: -0.36676943, y: -0.02262646, z: -0.000000029802322}
+      rotation: {x: 0.000000006582898, y: 0.0000003521288, z: -0.12533239, w: 0.99211484}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 Head
+      position: {x: -0.11825788, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000035762787, z: -0.082335055, w: -0.9966048}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+      transformModified: 1
+    - name: Bip04 L Clavicle
+      position: {x: -0.36391854, y: -0.0005298853, z: 0.04611118}
+      rotation: {x: -0.70710677, y: -0.00028257997, z: 0.7071067, w: -0.00028058488}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 L UpperArm
+      position: {x: -0.18641719, y: 0.000000059604645, z: 0.00000011920929}
+      rotation: {x: 0.01745885, y: 0.006339412, z: 0.000802453, w: 0.99982715}
+      scale: {x: 1, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Bip04 L Forearm
+      position: {x: -0.3145349, y: 0.000000014901161, z: 0}
+      rotation: {x: 0.0010583611, y: -0.0052880277, z: 0.03288854, w: 0.9994445}
+      scale: {x: 0.99999994, y: 0.9999995, z: 0.99999994}
+      transformModified: 1
+    - name: NPS_warior_sheld
+      position: {x: -0.1883601, y: -0.02566576, z: 0.054609716}
+      rotation: {x: -0.046863537, y: 0.16272569, z: 0.9855402, w: 0.0058886837}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 L Hand
+      position: {x: -0.24337187, y: -0.00000011920929, z: 0.000000059604645}
+      rotation: {x: 0.7067982, y: 0.0061680675, z: -0.006173089, w: -0.7073614}
+      scale: {x: 1, y: 0.9999996, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 L Finger0
+      position: {x: -0.042834044, y: 0.011301279, z: -0.06057}
+      rotation: {x: 0.5300635, y: -0.07882058, z: -0.012204655, w: 0.84419847}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 L Finger01
+      position: {x: -0.020256162, y: -0.00000011920929, z: 0.000000059604645}
+      rotation: {x: -0.00000008754433, y: 0, z: 0.037440803, w: -0.9992989}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Bip04 L Finger02
+      position: {x: -0.028947115, y: 0.000000029802322, z: 0}
+      rotation: {x: 0.0000002365559, y: -0.00000008940696, z: -0.15643442, w: 0.98768836}
+      scale: {x: 0.9999999, y: 0.9999994, z: 0.9999994}
+      transformModified: 1
+    - name: Bip04 L Finger1
+      position: {x: -0.10405338, y: 0.005669892, z: -0.000033438206}
+      rotation: {x: -0.0003980635, y: 0.000000029802326, z: -0.000000067986555, w: 0.99999994}
+      scale: {x: 0.9999999, y: 1.0000005, z: 0.9999996}
+      transformModified: 1
+    - name: Bip04 L Finger11
+      position: {x: -0.04399842, y: -0.000000029802322, z: 0}
+      rotation: {x: -0.00000064529024, y: 0.0000013858082, z: -0.02225033, w: 0.99975246}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 L Finger12
+      position: {x: -0.043860257, y: 0, z: -0.00000011920929}
+      rotation: {x: -0.000000119209275, y: 0.00000004470348, z: -0.30070576, w: 0.953717}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 R Clavicle
+      position: {x: -0.36391854, y: -0.0005296469, z: -0.046111185}
+      rotation: {x: 0.7071067, y: 0.00028058887, z: 0.7071068, w: -0.00028261542}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 R UpperArm
+      position: {x: -0.18641716, y: 0, z: 0}
+      rotation: {x: 0.017458916, y: 0.006339424, z: -0.00080245896, w: -0.99982715}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999964}
+      transformModified: 1
+    - name: Bip04 R Forearm
+      position: {x: -0.31453502, y: -0.000000059604645, z: 0}
+      rotation: {x: -0.0010583401, y: 0.0052875234, z: 0.032888617, w: 0.9994445}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000005}
+      transformModified: 1
+    - name: Bip04 R Hand
+      position: {x: -0.2433718, y: 0, z: 0.00000011920929}
+      rotation: {x: -0.7067982, y: -0.006168171, z: -0.0061730733, w: -0.70736146}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: NPS_warior_sword_01
+      position: {x: -0.0722405, y: 0.10319203, z: -0.027801752}
+      rotation: {x: 0.004361184, y: -0.67775965, z: 0.7351753, w: 0.011838104}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 R Finger1
+      position: {x: -0.10405338, y: 0.005669862, z: 0.0000333786}
+      rotation: {x: 0.00039813906, y: -0.00000008940696, z: -0.0000000334694, w: 1}
+      scale: {x: 0.99999934, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: Bip04 R Finger11
+      position: {x: -0.04399848, y: 0.000000029802322, z: 0.00000011920929}
+      rotation: {x: 0.00000076275285, y: 0.0000011101359, z: -0.02225057, w: 0.9997524}
+      scale: {x: 0.9999996, y: 1.0000004, z: 0.9999998}
+      transformModified: 1
+    - name: Bip04 R Finger12
+      position: {x: -0.043860137, y: 0.000000029802322, z: 0}
+      rotation: {x: -0.00000016391276, y: -0.000000104308114, z: -0.30070588, w: 0.953717}
+      scale: {x: 0.9999995, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 R Finger0
+      position: {x: -0.042833984, y: 0.011301219, z: 0.06057024}
+      rotation: {x: -0.5300669, y: 0.07881916, z: -0.012196263, w: 0.84419656}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: Bip04 R Finger01
+      position: {x: -0.020256102, y: 0.00000011920929, z: 0.00000011920929}
+      rotation: {x: 0.00000032782555, y: 0.000004142523, z: -0.037448548, w: 0.99929863}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999964}
+      transformModified: 1
+    - name: Bip04 R Finger02
+      position: {x: -0.02894716, y: -0.000000029802322, z: 0}
+      rotation: {x: -0.000000059604645, y: 0.000000029802322, z: -0.15643445, w: 0.9876884}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: Bip04 L Thigh
+      position: {x: 0.00000023841858, y: 0.00000020116568, z: 0.11452183}
+      rotation: {x: -0.103962936, y: 0.9937083, z: -0.00366959, w: 0.041498248}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Bip04 L Calf
+      position: {x: -0.48388255, y: 0.000000059604645, z: 0}
+      rotation: {x: 0, y: -0.000000059604645, z: 0.25544733, w: 0.96682304}
+      scale: {x: 0.99999964, y: 1, z: 0.9999998}
+      transformModified: 1
+    - name: Bip04 L Foot
+      position: {x: -0.56671405, y: 0, z: -0.000000029802322}
+      rotation: {x: 0.007053434, y: 0.041058805, z: -0.15332632, w: 0.98729706}
+      scale: {x: 1, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Bip04 R Thigh
+      position: {x: -0.00000011920929, y: -0.00000011920929, z: -0.11452183}
+      rotation: {x: -0.10396293, y: 0.99370825, z: 0.003668293, w: -0.041498568}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: Bip04 R Calf
+      position: {x: -0.48388273, y: -0.000000014901161, z: 0}
+      rotation: {x: 0.000000029802322, y: -0.00000010430813, z: 0.25544742, w: 0.966823}
+      scale: {x: 0.9999997, y: 0.99999946, z: 1}
+      transformModified: 1
+    - name: Bip04 R Foot
+      position: {x: -0.566714, y: 0.000000014901161, z: 0}
+      rotation: {x: -0.007053405, y: -0.04105881, z: -0.15332639, w: 0.9872971}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

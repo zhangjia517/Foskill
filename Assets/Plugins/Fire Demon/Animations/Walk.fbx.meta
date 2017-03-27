@@ -136,20 +136,7 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: "\nInbetween bone default rotation found in this file
-      is different from the one found in the source avatar:\n\t'Bip01_L_HorseLink'
-      : rotation error = 49.082848 deg\n\nClip 'C4D Animation Take' has import animation
-      warnings that might lower retargeting quality:\nNote: Activate translation DOF
-      on avatar to improve retargeting quality.\n\t'Bip01_Spine' is inbetween humanoid
-      transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_Clavicle'
-      has translation animation that will be discarded.\n\t'Bip01_R_Clavicle' has
-      translation animation that will be discarded.\n\t'Bip01_R_Clavicle' is inbetween
-      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_R_Thigh'
-      has translation animation that will be discarded.\n\t'Bip01_R_HorseLink' is
-      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_Thigh'
-      has translation animation that will be discarded.\n\t'Bip01_L_HorseLink' is
-      inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
@@ -170,8 +157,8 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
+      loopTime: 1
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
