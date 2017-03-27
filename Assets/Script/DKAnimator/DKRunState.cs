@@ -21,7 +21,7 @@ public class DKRunState : StateMachineBehaviour
         animator.gameObject.transform.Translate(animator.transform.forward * vertical * 0.08f * _dkConcrete.RunSpeed, Space.World);
         animator.gameObject.transform.Rotate(animator.transform.up * _dkConcrete.RotateSpeed * 2f * horizontal);
 
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetButtonDown("Dodge"))
         {
             animator.SetBool("Dodge", true);
         }
